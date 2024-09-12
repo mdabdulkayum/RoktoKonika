@@ -16,7 +16,7 @@
   - Multiple language support like: English and Bangla
 
 # Download APK
- <a href="https://github.com/mdabdulkayum/RoktoKonika/releases"> Download </a>
+ <a href="https://github.com/mdabdulkayum/RoktoKonika/releases/download/v0.1.0/Rokto.Konika.apk"> Download </a>
 
 # Screenshot
 
